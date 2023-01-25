@@ -9,7 +9,7 @@ require (
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/rancher/lasso v0.0.0-20200905045615-7fcb07d6a20b
-	github.com/rancher/wrangler v0.7.2
+	github.com/rancher/wrangler v0.7.5
 	github.com/sirupsen/logrus v1.6.0
 	github.com/stretchr/testify v1.4.0
 	github.com/urfave/cli v1.20.0
